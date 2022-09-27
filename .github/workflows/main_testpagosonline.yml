@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'TestPagosOnline'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_3B290311FF824544B4FED47F2A1D863F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E3F8C14F968A4CC2AB0D614CA407E986 }}
           package: .
